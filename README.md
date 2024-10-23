@@ -1,19 +1,17 @@
 # ArcmapSpy
 
-ArcmapSpy is an AddIn for the Esri ArcMap software and provides insight into the internals of ArcObjects. It consists of several tools which are listed below, they are accessible from a stand-alone toolbar.
+ArcmapSpy is an AddIn for the Esri ArcMap software and provides insight into the internals of ArcObjects. It consists of several tools which are listed below, they are accessible from a stand-alone toolbar. It was originally published by Geocom Informatik AG, later when the company was merged, the developer decided to make the project available [here](https://github.com/martinstoeckli/ArcmapSpy).
 
-You can [download the latest version](https://github.com/geocom-gis/ArcmapSpy/releases/latest) of ArcmapSpy in the release section.
+You can [download the latest version](https://github.com/martinstoeckli/ArcmapSpy/releases/latest) of ArcmapSpy in the release section.
 
 Watch this [video on YouTube](https://youtu.be/FJigtyt5mIs) to see ArcmapSpy in action.
-
-For more information please contact: support@geocom.ch.
 
 #### DISCLAMER: Please be aware that this product is not supported. Further information can be found in the license file.
 
 ------
 ## Requirements
 
-Since this is an AddIn for the ArcGIS desktop, an installed version of ArcMap 10.5 or higher is required.
+Since this is an AddIn for the ArcGIS desktop, an installed version of ArcMap 10.6 or higher is required.
 
 ------
 ## Tools
